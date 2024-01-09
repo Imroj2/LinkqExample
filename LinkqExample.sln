@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkqExample", "LinkqExample\LinkqExample.csproj", "{BEDC6DD5-3CF8-4F6C-9A58-0A770147CF23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEDC6DD5-3CF8-4F6C-9A58-0A770147CF23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEDC6DD5-3CF8-4F6C-9A58-0A770147CF23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEDC6DD5-3CF8-4F6C-9A58-0A770147CF23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEDC6DD5-3CF8-4F6C-9A58-0A770147CF23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A37730E4-BA09-490B-818D-F509E979CAEB}
+	EndGlobalSection
+EndGlobal
